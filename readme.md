@@ -17,8 +17,8 @@
 
 Web estatica modelo E-commercer. Consta de:
 
-* Tienda: Página donde se muesrtran los productos disponibles, con nommbre y precio..
-* Menu de navegació: Inicio, Nosotros.
+* Tienda: Página donde se muestran los productos disponibles, con nommbre y precio.
+* Menu de navegación: Inicio, Nosotros.
 * Nosotros: Página que contiene una imagen y texto adicional, asi como iconos para dar mayor seguridad de la compra al cliiente.
 * Producto: Página de producto que incluye imagen del producto, descripción, talla, precio y boton comprar como todo E-commerces.
 
@@ -57,8 +57,7 @@ $ git clone https://github.com/jdaltamiranodev/FrontEndStore_inicio_practica.git
 ```
 * Opcional: Puede copiar y pegar la linea anterior en su terminal en la carpeta elegida para clonar el proyecto.
 
-4. Navegue hasta la carpeta clonada, abra el archivo index.html. Presione el botón derecho del ratón y elija la opción "Abrir en navegación predeterminado". Se abrira el navegador en la pagina 
-   principal del proyecto y podrá navegar por el mismo.
+4. Navegue hasta la carpeta clonada, abra el archivo index.html. Presione el botón derecho del ratón y elija la opción "Abrir en navegador predeterminado". Se abrira el navegador en la pagina principal del proyecto y podrá navegar por el mismo.
    
 ## Marcos de competencia
 
